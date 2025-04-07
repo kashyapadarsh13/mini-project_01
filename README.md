@@ -11,7 +11,7 @@ Designed to showcase frontend development skills with a smooth, interactive UI/U
   * GitHub Pages: For deploying the project directly from the repository.
 
 #Usage :
-    "Visit the live site: [https://kashyapadarsh13.github.io/mini-projects./]. Here, you can explore the homepage."
+    "Visit the live site: [https://kashyapadarsh13.github.io/mini-project_01/]. Here, you can explore the homepage."
 
 #Contact
     Feel free to reach out via email at: kumaradarsh69171@gmail.com or connect with me on LinkedIn link [https://www.linkedin.com/in/adarsh-kumar-72b826316/]
